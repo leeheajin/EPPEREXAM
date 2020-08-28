@@ -1,3 +1,2 @@
-# EPPEREXAM
-
-  EPPER 시험에 대비하기 위하여 기출문제를 풀고 코드를 올리는 공간입니다
+# EPPER_EXAM_2018
+2018년에 출제된 ewha epper 기출문제에 대한 풀이
